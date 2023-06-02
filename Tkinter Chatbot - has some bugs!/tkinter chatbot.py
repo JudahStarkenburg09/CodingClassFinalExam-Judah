@@ -765,6 +765,10 @@ responses = [
         "responses": ['good']
     },
     {
+        "input": ["pi", "what is pi", "name pi"],
+        "responses": ["Pi is 3.14159265358979323846"]
+    },
+    {
         "input": ["how are you", "how are you linus", "are you okay", "how do you do", "how are you feeling", "how are you doing", "how are you doing today","how are you feeling today"],
         "responses": ["I'm good, thank you!", "I'm doing well!", "I'm fine, how about you?"],
     },
